@@ -1,0 +1,2025 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+    
+
+
+
+<link rel="preload" as="font" href="/-/media/themes/blickle2/blickle/fonts/BlickleSansEurope/blicklesanseuroperegular-woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="/-/media/themes/blickle2/blickle/fonts/BlickleSansEurope/blicklesanseuropebold-woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="/-/media/themes/blickle2/blickle/fonts/SvgIconFont/svg-icons-font-woff" type="font/woff" crossorigin="anonymous">
+<script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+
+            <!-- Google Tag Manager -->
+            <script data-cmp-vendor="s905" data-cmp-purpose="c54" type="text/plain" class="cmplazyload">
+                (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+                var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+                })(window, document, 'script', 'dataLayer', 'GTM-MVLV5HK');
+            </script>
+            <!-- End Google Tag Manager -->
+
+
+    <title>404 Error Page</title>
+
+
+    <link rel="canonical" href="https://www.blickle.com/404-error-page" />
+
+
+
+
+
+
+<meta  name="robots" content="noindex,nofollow">
+    <link href="/-/media/project/blickle/shared/blickle-logo/favicon.ico?fh=346f70f5808f8092ba2d70a262f26652" rel="shortcut icon" />
+
+
+
+
+
+<meta property="og:title"  content="404 Error Page"><meta property="og:url"  content="https://www.blickle.com/404-error-page">
+
+
+
+
+
+
+
+<meta property="twitter:title"  content="404 Error Page"><meta property="twitter:card"  content="summary_large_image">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+
+
+<script type="text/javascript">
+        (function(w) {
+            var d = w['pageContextData'] || (w['pageContextData'] = {});
+            d.site = "Global-Web_International-live";
+            d.language = "en";
+            d.iid = "a797ad25266e4da8a1a725925870f47d";
+        }(window));
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- Start GA -->
+        <script async type="text/plain" class="cmplazyload" data-cmp-vendor="s26" data-cmp-src="https://www.googletagmanager.com/gtag/js?id=G-8JQNP6Y4EE"></script>
+        <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-8JQNP6Y4EE');
+        </script>
+        <!-- End GA -->
+
+    <script type="application/ld+json">
+    {"OrganizationData":null}
+    </script>
+
+
+    <script type="text/javascript" async="false" defer="false" src="/Js/polyfill.min.js?v=3.104.0"></script> 
+
+<link href="/-/media/feature/experience-accelerator/bootstrap-4/bootstrap-4/styles/optimized-min.css?t=20220711T110546Z" rel="stylesheet"><link href="/-/media/base-themes/core-libraries/styles/optimized-min.css?t=20260521T150839Z" rel="stylesheet"><link href="/-/media/base-themes/sticky-notes/styles/optimized-min.css?t=20260521T150928Z" rel="stylesheet"><link href="/-/media/base-themes/editing-theme/styles/optimized-min.css?t=20260521T151631Z" rel="stylesheet"><link href="/-/media/base-themes/main-theme/styles/optimized-min.css?t=20260521T150920Z" rel="stylesheet"><link href="/-/media/themes/blickle2/blickle/styles/pre-optimized-min.css?fh=e31bff06ee22bfdc0f6bf1188f6b0741&t=20260811T133115Z" rel="stylesheet">    
+    
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery-3.5.1.min.js?v=3.5.1"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.validate.min.js?v=1.16.0"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.validate.unobtrusive.min.js?v=sc10.3.1"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.unobtrusive-ajax.min.js?v=3.2.6"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.validate.js?v=sc10.3.1"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.tracking.js?v=sc10.3.1"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.conditions.js?v=sc10.3.1"></script>
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.captcha.js?v=1.0.5"></script>
+    
+</head>
+<body class="default-device bodyclass">
+    
+
+    <script type="text/javascript" data-cmp-ab="1">window.cmp_customlanguages = [{ "l": "DE-DE", "i": "de", "r": 0, "t": "DE" }];</script>
+    <script>window.cmp_setlang = 'EN'; 
+            window.gdprAppliesGlobally = true; 
+            if (!("cmp_id" in window) || window.cmp_id < 1) { window.cmp_id = 0 } 
+            if (!("cmp_cdid" in window)) { window.cmp_cdid = "29eb73fae94e" } 
+            
+            "cmp_params"in window||(window.cmp_params=""),"cmp_host"in window||(window.cmp_host="c.delivery.consentmanager.net"),"cmp_cdn"in window||(window.cmp_cdn="cdn.consentmanager.net"),"cmp_proto"in window||(window.cmp_proto="https:"),"cmp_codesrc"in window||(window.cmp_codesrc="1"),window.cmp_getsupportedLangs=function(){var e=["DE","EN","FR","IT","NO","DA","FI","ES","PT","RO","BG","ET","EL","GA","HR","LV","LT","MT","NL","PL","SV","SK","SL","CS","HU","RU","SR","ZH","TR","UK","AR","BS"];if("cmp_customlanguages"in window)for(var p=0;p<window.cmp_customlanguages.length;p++)e.push(window.cmp_customlanguages[p].l.toUpperCase());return e},window.cmp_getRTLLangs=function(){var e=["AR"];if("cmp_customlanguages"in window)for(var p=0;p<window.cmp_customlanguages.length;p++)"r"in window.cmp_customlanguages[p]&&window.cmp_customlanguages[p].r&&e.push(window.cmp_customlanguages[p].l);return e},window.cmp_getlang=function(e){if("boolean"!=typeof e&&(e=!0),e&&"string"==typeof cmp_getlang.usedlang&&""!==cmp_getlang.usedlang)return cmp_getlang.usedlang;var p=window.cmp_getsupportedLangs(),t=[],n=location.hash,a=location.search,c="languages"in navigator?navigator.languages:[];if(-1!=n.indexOf("cmplang="))t.push(n.substr(n.indexOf("cmplang=")+8,2).toUpperCase());else if(-1!=a.indexOf("cmplang="))t.push(a.substr(a.indexOf("cmplang=")+8,2).toUpperCase());else if("cmp_setlang"in window&&""!=window.cmp_setlang)t.push(window.cmp_setlang.toUpperCase());else if(c.length>0)for(var s=0;s<c.length;s++)t.push(c[s]);"language"in navigator&&t.push(navigator.language),"userLanguage"in navigator&&t.push(navigator.userLanguage);for(var i="",s=0;s<t.length;s++){var r=t[s].toUpperCase();if(-1!=p.indexOf(r)||(-1!=r.indexOf("-")&&(r=r.substr(0,2)),-1!=p.indexOf(r))){i=r;break}}return""==i&&"string"==typeof cmp_getlang.defaultlang&&""!==cmp_getlang.defaultlang?cmp_getlang.defaultlang:(""==i&&(i="EN"),i=i.toUpperCase())},function(){var e=document,p=e.getElementsByTagName,t=window,n="",a="_en";if("cmp_getlang"in t){if(n=t.cmp_getlang().toLowerCase(),"cmp_customlanguages"in t){for(var c=0;c<t.cmp_customlanguages.length;c++)if(t.cmp_customlanguages[c].l.toUpperCase()==n.toUpperCase()){n="en";break}}a="_"+n}function s(e,p){var t="",n=(e+="=").length,a=location;if(-1!=a.hash.indexOf(e))t=a.hash.substr(a.hash.indexOf(e)+n,9999);else{if(-1==a.search.indexOf(e))return p;t=a.search.substr(a.search.indexOf(e)+n,9999)}return -1!=t.indexOf("&")&&(t=t.substr(0,t.indexOf("&"))),t}var i="cmp_proto"in t?t.cmp_proto:"https:";"http:"!=i&&"https:"!=i&&(i="https:");var r="cmp_ref"in t?t.cmp_ref:location.href,l=e.createElement("script");l.setAttribute("data-cmp-ab","1");var m=s("cmpdesign","cmp_design"in t?t.cmp_design:""),u=s("cmpregulationkey","cmp_regulationkey"in t?t.cmp_regulationkey:""),g=s("cmpgppkey","cmp_gppkey"in t?t.cmp_gppkey:""),d=s("cmpatt","cmp_att"in t?t.cmp_att:"");if(l.src=i+"//"+t.cmp_host+"/delivery/cmp.php?"+("cmp_id"in t&&t.cmp_id>0?"id="+t.cmp_id:"")+("cmp_cdid"in t?"&cdid="+t.cmp_cdid:"")+"&h="+encodeURIComponent(r)+(""!=m?"&cmpdesign="+encodeURIComponent(m):"")+(""!=u?"&cmpregulationkey="+encodeURIComponent(u):"")+(""!=g?"&cmpgppkey="+encodeURIComponent(g):"")+(""!=d?"&cmpatt="+encodeURIComponent(d):"")+("cmp_params"in t?"&"+t.cmp_params:"")+(e.cookie.length>0?"&__cmpfcc=1":"")+"&l="+n.toLowerCase()+"&o="+new Date().getTime(),l.type="text/javascript",l.async=!0,e.currentScript&&e.currentScript.parentElement)e.currentScript.parentElement.appendChild(l);else if(e.body)e.body.appendChild(l);else{var o=p("body");0==o.length&&(o=p("div")),0==o.length&&(o=p("span")),0==o.length&&(o=p("ins")),0==o.length&&(o=p("script")),0==o.length&&(o=p("head")),o.length>0&&o[0].appendChild(l)}var f="js",h=s("cmpdebugunminimized","cmpdebugunminimized"in t?t.cmpdebugunminimized:0)>0?"":".min";"1"==s("cmpdebugcoverage","cmp_debugcoverage"in t?t.cmp_debugcoverage:"")&&(f="instrumented",h="");var l=e.createElement("script");if(l.src=i+"//"+t.cmp_cdn+"/delivery/"+f+"/cmp"+a+h+".js",l.type="text/javascript",l.setAttribute("data-cmp-ab","1"),l.async=!0,e.currentScript&&e.currentScript.parentElement)e.currentScript.parentElement.appendChild(l);else if(e.body)e.body.appendChild(l);else{var o=p("body");0==o.length&&(o=p("div")),0==o.length&&(o=p("span")),0==o.length&&(o=p("ins")),0==o.length&&(o=p("script")),0==o.length&&(o=p("head")),o.length>0&&o[0].appendChild(l)}}(),window.cmp_addFrame=function(e){if(!window.frames[e]){if(document.body){var p=document.createElement("iframe");p.style.cssText="display:none","cmp_cdn"in window&&"cmp_ultrablocking"in window&&window.cmp_ultrablocking>0&&(p.src="//"+window.cmp_cdn+"/delivery/empty.html"),p.name=e,document.body.appendChild(p)}else window.setTimeout(window.cmp_addFrame,10,e)}},window.cmp_rc=function(e){for(var p=document.cookie,t="",n=0;""!=p&&n<100;){for(n++;" "==p.substr(0,1);)p=p.substr(1,p.length);var a=p.substring(0,p.indexOf("="));if(-1!=p.indexOf(";"))var c=p.substring(p.indexOf("=")+1,p.indexOf(";"));else var c=p.substr(p.indexOf("=")+1,p.length);e==a&&(t=c);var s=p.indexOf(";")+1;0==s&&(s=p.length),p=p.substring(s,p.length)}return t},window.cmp_stub=function(){var e=arguments;if(__cmp.a=__cmp.a||[],!e.length)return __cmp.a;"ping"===e[0]?2===e[1]?e[2]({gdprApplies:gdprAppliesGlobally,cmpLoaded:!1,cmpStatus:"stub",displayStatus:"hidden",apiVersion:"2.0",cmpId:31},!0):e[2](!1,!0):"getUSPData"===e[0]?e[2]({version:1,uspString:window.cmp_rc("")},!0):"getTCData"===e[0]?__cmp.a.push([].slice.apply(e)):"addEventListener"===e[0]||"removeEventListener"===e[0]?__cmp.a.push([].slice.apply(e)):4==e.length&&!1===e[3]?e[2]({},!1):__cmp.a.push([].slice.apply(e))},window.cmp_gpp_ping=function(){return{gppVersion:"1.0",cmpStatus:"stub",cmpDisplayStatus:"hidden",supportedAPIs:["tcfca","usnat","usca","usva","usco","usut","usct"],cmpId:31}},window.cmp_gppstub=function(){var e=arguments;if(__gpp.q=__gpp.q||[],!e.length)return __gpp.q;var p=e[0],t=e.length>1?e[1]:null,n=e.length>2?e[2]:null;if("ping"===p)return window.cmp_gpp_ping();if("addEventListener"===p){__gpp.e=__gpp.e||[],"lastId"in __gpp||(__gpp.lastId=0),__gpp.lastId++;var a=__gpp.lastId;return __gpp.e.push({id:a,callback:t}),{eventName:"listenerRegistered",listenerId:a,data:!0,pingData:window.cmp_gpp_ping()}}if("removeEventListener"===p){var c=!1;__gpp.e=__gpp.e||[];for(var s=0;s<__gpp.e.length;s++)if(__gpp.e[s].id==n){__gpp.e[s].splice(s,1),c=!0;break}return{eventName:"listenerRemoved",listenerId:n,data:c,pingData:window.cmp_gpp_ping()}}return"getGPPData"===p?{sectionId:3,gppVersion:1,sectionList:[],applicableSections:[0],gppString:"",pingData:window.cmp_gpp_ping()}:"hasSection"===p||"getSection"===p||"getField"===p?null:void __gpp.q.push([].slice.apply(e))},window.cmp_msghandler=function(e){var p="string"==typeof e.data;try{var t=p?JSON.parse(e.data):e.data}catch(n){var t=null}if("object"==typeof t&&null!==t&&"__cmpCall"in t){var a=t.__cmpCall;window.__cmp(a.command,a.parameter,function(t,n){var c={__cmpReturn:{returnValue:t,success:n,callId:a.callId}};e.source.postMessage(p?JSON.stringify(c):c,"*")})}if("object"==typeof t&&null!==t&&"__uspapiCall"in t){var a=t.__uspapiCall;window.__uspapi(a.command,a.version,function(t,n){var c={__uspapiReturn:{returnValue:t,success:n,callId:a.callId}};e.source.postMessage(p?JSON.stringify(c):c,"*")})}if("object"==typeof t&&null!==t&&"__tcfapiCall"in t){var a=t.__tcfapiCall;window.__tcfapi(a.command,a.version,function(t,n){var c={__tcfapiReturn:{returnValue:t,success:n,callId:a.callId}};e.source.postMessage(p?JSON.stringify(c):c,"*")},a.parameter)}if("object"==typeof t&&null!==t&&"__gppCall"in t){var a=t.__gppCall;window.__gpp(a.command,function(t,n){var c={__gppReturn:{returnValue:t,success:n,callId:a.callId}};e.source.postMessage(p?JSON.stringify(c):c,"*")},"parameter"in a?a.parameter:null,"version"in a?a.version:1)}},window.cmp_setStub=function(e){e in window&&("function"==typeof window[e]||"object"==typeof window[e]||void 0!==window[e]&&null===window[e])||(window[e]=window.cmp_stub,window[e].msgHandler=window.cmp_msghandler,window.addEventListener("message",window.cmp_msghandler,!1))},window.cmp_setGppStub=function(e){e in window&&("function"==typeof window[e]||"object"==typeof window[e]||void 0!==window[e]&&null===window[e])||(window[e]=window.cmp_gppstub,window[e].msgHandler=window.cmp_msghandler,window.addEventListener("message",window.cmp_msghandler,!1))},window.cmp_addFrame("__cmpLocator"),"cmp_disableusp"in window&&window.cmp_disableusp||window.cmp_addFrame("__uspapiLocator"),"cmp_disabletcf"in window&&window.cmp_disabletcf||window.cmp_addFrame("__tcfapiLocator"),"cmp_disablegpp"in window&&window.cmp_disablegpp||window.cmp_addFrame("__gppLocator"),window.cmp_setStub("__cmp"),"cmp_disabletcf"in window&&window.cmp_disabletcf||window.cmp_setStub("__tcfapi"),"cmp_disableusp"in window&&window.cmp_disableusp||window.cmp_setStub("__uspapi"),"cmp_disablegpp"in window&&window.cmp_disablegpp||window.cmp_setGppStub("__gpp");
+    </script>
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+
+        <!--Google Tag Manager(noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVLV5HK" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!--End Google Tag Manager(noscript)-->
+
+    
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header>
+        <div id="header" class="container-fluid">
+            
+            <div class="row">
+                <div class="row">
+
+
+
+
+<div class="component container col-12 d-none d-sm-none d-md-none d-lg-block d-xl-block container-lightgray-background main-header">
+    <div class="component-content" >
+<div class="row">
+
+
+<div class="component container justify-right">
+    <div class="component-content" >
+<div class="row">        <div class="component navigation meta-navigation">
+            <div class="component-content">
+                <nav>
+<ul class="clearfix" data-menu-level="1">
+        <li class=" level0 item0 odd first flat-level1 rel-level1" data-menu-element-id="deca570f-bcc7-46f4-9169-482e1978bdb5">
+<div class="navigation-title field-navigationtitle"><a title="company" href="/company">Company</a></div>
+        </li>
+        <li class=" level0 item1 even flat-level1 rel-level1" data-menu-element-id="d43f0840-260b-4174-b7b3-42c6e5545c2b">
+<div class="navigation-title field-navigationtitle"><a title="news" href="/news">News</a></div>
+        </li>
+        <li class=" level0 item2 odd flat-level1 rel-level1" data-menu-element-id="28db8f82-f056-4852-a157-58a9b2d9dc29">
+<div class="navigation-title field-navigationtitle"><a title="trade-fairs" href="/trade-fairs">Trade fairs</a></div>
+        </li>
+        <li class=" level0 item3 even last flat-level1 rel-level1" data-menu-element-id="86c55922-f138-4bf4-9bf9-a81ed2602d8c">
+<div class="navigation-title field-navigationtitle"><a title="contact" href="/contact">Contact</a></div>
+        </li>
+</ul>
+
+                </nav>
+            </div>
+        </div>
+
+<div class="component">
+        <div class="blickle-language-selector hidden">
+            <div class="language-selector-header">
+                <span class="language-selector-label">Language/country selection</span>
+                <span class="language-selector-label-mobile">INT</span>
+                    <img src="/-/media/project/blickle/shared/countries/icon-sprache.png?fh=e05afe5c874f7e41d28b3ed41e1648fb&amp;mh=0&amp;mw=0&amp;hash=A29A8DD2ECF81F7B9DD0429044C7FED2" 
+         alt="" 
+         class="image-desktop" 
+         title=""
+         />
+
+                    <img src="/-/media/project/blickle/shared/countries/icon_sprache_40.png?fh=171053d38965dcd4b119075c81d3fccf&amp;mh=0&amp;mw=0&amp;hash=B03F9395CE8698DA9053222FBC05A665" 
+         alt="countries" 
+         class="image-mobile" 
+         title=""
+         />
+
+
+                
+                    <img src="/-/media/project/blickle/shared/countries/weltkugel.png?fh=f3d16522c7a6ef85e1776787ffd6e762&amp;mh=16&amp;mw=27&amp;hash=47CC05E1569B4A435B5579C68F4CD7A4" 
+         alt="Globe" 
+         class="country-image" 
+         title="Globe"
+         />
+
+                <span class="country-selector-label">INT</span>
+
+            </div>
+            <div class="language-selector-body">
+                <div class="language-selector-body-container">
+                        <div class="continent">
+                            <div class="continent-headline">
+                                Blickle International
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/weltkugel.png?fh=f3d16522c7a6ef85e1776787ffd6e762&amp;mh=16&amp;mw=27&amp;hash=47CC05E1569B4A435B5579C68F4CD7A4" 
+         alt="Globe" 
+         class="country-image" 
+         title="Globe"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com/">Global English</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                North America
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/ca.jpg?fh=fb6a26b83358fc439187b92293cae77d&amp;mh=16&amp;mw=27&amp;hash=ADF1D742BBDF5E7C76874FCA06A5DB6B" 
+         alt="Canada" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <span>Canada</span>
+                                            <div class="language-selector-language-list">
+
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.ca/fr-ca">(FR)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.ca/en-ca">(EN)</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/usa.jpg?fh=ef535e65195cdb569ce173940fc76863&amp;mh=16&amp;mw=27&amp;hash=BA42A12847A9C14FA735A98896819B3E" 
+         alt="USA" 
+         class="country-image" 
+         title="USA"
+         loading="lazy"/>
+
+
+                                            <span>USA</span>
+                                            <div class="language-selector-language-list">
+
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.us/en-us">(EN)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.us/es-us">(ES)</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/mx.jpg?fh=c24101983cd2944479898eee4bafc378&amp;mh=16&amp;mw=27&amp;hash=0C4A0051B30791C5344C2D97334C193E" 
+         alt="Mexico" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.mx/">Mexico</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                South America
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/br.jpg?fh=2fe637fc8ffe91c4f642d30f1a7443e1&amp;mh=16&amp;mw=27&amp;hash=FACDF333C4FC104A4BABD42E71A6CC67" 
+         alt="Brazil" 
+         class="country-image" 
+         title="Brazil"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.br/">Brazil</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/col.jpg?fh=574ce6217b02d929d7616e75cab71a52&amp;mh=16&amp;mw=27&amp;hash=F77E16E559302BC5E5EFAB541856ACAB" 
+         alt="Colombia" 
+         class="country-image" 
+         title="Colombia"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.rodamex-blickle.com/">Colombia</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                Asia
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/cn.jpg?fh=c7e1761ed41f90e84d5ecf6380ada8d0&amp;mh=16&amp;mw=27&amp;hash=4CAAB7D0ADBDA46904799797B4144BF5" 
+         alt="China" 
+         class="country-image" 
+         title="China"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.cn/">China</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/jp.jpg?fh=a44f6659e468ac460a73cc4708d15b91&amp;mh=16&amp;mw=27&amp;hash=2B89E453756292BFD005F0B8627FBE56" 
+         alt="Japan" 
+         class="country-image" 
+         title="Japan"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.jp/">Japan</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/kr.jpg?fh=7153dcccf4e76918850a6e7bd93b6ee9&amp;mh=16&amp;mw=27&amp;hash=44607F223186AFC6A6BDDDBA8B38FA5A" 
+         alt="South Korea" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.kr/">South Korea</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/vietnam.jpg?fh=e3b0b794bf9bad674dfd7d64dd931b81&amp;mh=16&amp;mw=27&amp;hash=91BF20F84D77455A7CD3BAA140ECF982" 
+         alt="Vietnam" 
+         class="country-image" 
+         title="Vietnam"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.vn/">Vietnam</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/in.jpg?fh=d1d194e9d071495255eb35cc3a791916&amp;mh=16&amp;mw=27&amp;hash=6F78C05F2B1520A22DFCC819E6E9EE52" 
+         alt="India" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.in/">India</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                Australia
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/au.jpg?fh=3c1b0cf5a6e15bf93371f9ad0e80c233&amp;mh=16&amp;mw=27&amp;hash=AC0B1971E1AF9A736AFD1258B1A7929C" 
+         alt="Australia" 
+         class="country-image" 
+         title="Australia"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.au/">Australia</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                Europe
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/at.jpg?fh=91f82ca22085ef87eb22e752f9d6691e&amp;mh=16&amp;mw=27&amp;hash=0EE6CC24FA2232D33B7D13B741E08172" 
+         alt="Austria" 
+         class="country-image" 
+         title="Austria"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.at/">Austria</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/be.jpg?fh=7265c9b45ee9c6855e6b5cf66867aa91&amp;mh=16&amp;mw=27&amp;hash=344C95D4ED04125E12273BDD014BA88C" 
+         alt="Belgium" 
+         class="country-image" 
+         title="Belgium"
+         loading="lazy"/>
+
+
+                                            <span>Belgium</span>
+                                            <div class="language-selector-language-list">
+
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.be/nl-be">(NL)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.be/fr-be">(FR)</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/cz.jpg?fh=922bb0f0691623bb1c2922c118bb4185&amp;mh=16&amp;mw=27&amp;hash=F3DBB6C58EA2CA2C2011EF1285E8C8AA" 
+         alt="Czech Republic" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.cz/">Czech Republic</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/dk.jpg?fh=365d50afbc9d64690670ac3b49abaa28&amp;mh=16&amp;mw=27&amp;hash=7E71D41CF4306362406B8356777F8658" 
+         alt="Denmark" 
+         class="country-image" 
+         title="Denmark"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.dk/">Denmark</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/ee.jpg?fh=7e0700b4519a4abfc1ea758ce82a2404&amp;mh=16&amp;mw=27&amp;hash=BB1B8CB0D715164C2D665A8BBDA830C1" 
+         alt="Estonia" 
+         class="country-image" 
+         title="Estonia"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.ee/">Estonia</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/fi.jpg?fh=5958e5a3dead55a861d656fad8a5a76f&amp;mh=16&amp;mw=27&amp;hash=9D4F8BDDFCA15807B24887A3C9EA8375" 
+         alt="Finland" 
+         class="country-image" 
+         title="Finland"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.fi/">Finland</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/fr.jpg?fh=c4a294a43f67b21b4d51033264138a14&amp;mh=16&amp;mw=27&amp;hash=DDBA56344CE7DEB954536FB2C0E2E73F" 
+         alt="France" 
+         class="country-image" 
+         title="France"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.fr/">France</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/de.png?fh=79f440aee010d4a96fa0237cd096a199&amp;mh=16&amp;mw=27&amp;hash=54C06F32F92028C7ECC83A89DC130922" 
+         alt="Germany" 
+         class="country-image" 
+         title="Germany"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.de/">Germany</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/hu.jpg?fh=b7fcb153a4213293e7f9b8c1e508a7d0&amp;mh=16&amp;mw=27&amp;hash=F9AC402EADFFD9734708DB0FC855F164" 
+         alt="Hungary" 
+         class="country-image" 
+         title="Hungary"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.hu/">Hungary</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/it.jpg?fh=7416e045fa015246d3eb47db37d03de4&amp;mh=16&amp;mw=27&amp;hash=A82EEBE5D569580696C0956FCDBC4B92" 
+         alt="Italy" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.it/">Italy</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/lt.jpg?fh=23ff34b2c3b62dc32616334b36410f05&amp;mh=16&amp;mw=27&amp;hash=8947D409B1128D81C8AF559C8B26FB38" 
+         alt="Lithuania" 
+         class="country-image" 
+         title="Lithuania"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.lt/">Lithuania</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/nl.jpg?fh=8f6c6d758e36c23b848ef06e8d199ee7&amp;mh=16&amp;mw=27&amp;hash=1FCA5BBAFC51475D63E3E8AB70EB62B0" 
+         alt="Netherlands" 
+         class="country-image" 
+         title="Netherlands"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.nl/">Netherlands</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/no.jpg?fh=fb0c6c8ab78846749cd9767368e52d42&amp;mh=16&amp;mw=27&amp;hash=CFCDED0484D425FBDA418142E2158EEC" 
+         alt="Norway" 
+         class="country-image" 
+         title="Norway"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.no/">Norway</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/pl.jpg?fh=bad6f7d6ea83b86ac516100a9c3ca3eb&amp;mh=16&amp;mw=27&amp;hash=C905EFF246E78798FA9A0CBC0853BC10" 
+         alt="Poland" 
+         class="country-image" 
+         title="Poland"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.pl/">Poland</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/pt.jpg?fh=dd37f43e8624894b36354c90a796802f&amp;mh=16&amp;mw=27&amp;hash=69661136E4B74195BBA6B76BA1808EB5" 
+         alt="Portugal" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.pt/">Portugal</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/ro.jpg?fh=9e3cc8e4eff7f99dc85c551079cd04a3&amp;mh=16&amp;mw=27&amp;hash=3E281AAE418DF823F560C3B9D8625D01" 
+         alt="Romania" 
+         class="country-image" 
+         title="Romania"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.ro/">Romania</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/sk.jpg?fh=91aee145d7baa2736dc1fa5932b76f6e&amp;mh=16&amp;mw=27&amp;hash=3F4DAD48D16262B73509B0473C44CD84" 
+         alt="Slovakia" 
+         class="country-image" 
+         title="Slovakia"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.eu/">Slovakia</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/es.jpg?fh=0fcba43a2175dabe0e2ec1c7fa75ab16&amp;mh=16&amp;mw=27&amp;hash=661786746C598C737B95D36089BCEA53" 
+         alt="Spain" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.es/">Spain</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/se.jpg?fh=2a5de24273633bd1345f86cf84bb1970&amp;mh=16&amp;mw=27&amp;hash=41D32EE87C9172C307E5CD6838918421" 
+         alt="Sweden" 
+         class="country-image" 
+         title="Sweden"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.se/">Sweden</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/ch.jpg?fh=6997bfe5e1727518f09eb6ddd81f8702&amp;mh=16&amp;mw=27&amp;hash=8274B39DBF321114E46BB4F3C69CF339" 
+         alt="Switzerland" 
+         class="country-image" 
+         title="Switzerland"
+         loading="lazy"/>
+
+
+                                            <span>Switzerland</span>
+                                            <div class="language-selector-language-list">
+
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle-raeder.ch/de-ch">(DE)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle-raeder.ch/fr-ch">(FR)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle-raeder.ch/it-ch">(IT)</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/tr.jpg?fh=0604ad7a29d0780ad974ca05f58f18b4&amp;mh=16&amp;mw=27&amp;hash=F2A6FC0400AD841EA6D1F19EC04A974E" 
+         alt="Turkey" 
+         class="country-image" 
+         title="Turkey"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.tr/">T&#252;rkiye</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/uk.jpg?fh=427f1322552a312c1b156abc51bb083b&amp;mh=16&amp;mw=27&amp;hash=BC238D232D79481352EFB5B6D8DDA4FD" 
+         alt="L&#228;nderflagge UK" 
+         class="country-image" 
+         title="United Kingdom"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.co.uk/">United Kingdom</a>
+                                    </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    </div>
+</div></div>    </div>
+</div>
+
+
+<div class="component container col-12 d-none d-sm-none d-md-none d-lg-block d-xl-block container-green-background main-header">
+    <div class="component-content" >
+<div class="row">
+
+
+<div class="component container">
+    <div class="component-content" >
+<div class="row">
+<div class="row component column-splitter">
+        <div class="col-2">
+            <div class="row">
+
+<div class="component image file-type-icon-media-link col-12">
+    <div class="component-content">
+<a title="company-logo" href="/"><img src="/-/media/project/blickle/global-web/header/blickle_logo_neu.svg?iar=0&amp;fh=32ae6d0244b4a8fab9316436d890faf9&amp;hash=AED396A293D34F20487605E44D6F5EDE" alt="Blickle logo - wheels and castors" title="To the Blickle wheels and castors homepage" data-variantitemid="{CB92EE0C-1AB3-40D5-B1C9-4ED87D1ED6A2}" data-variantfieldname="Image" /></a>    </div>
+</div>
+</div>
+        </div>
+        <div class="col-8">
+            <div class="row">        <div class="component navigation navigation-title navigation-main main-navigation main-navigation-vertical">
+            <div class="component-content">
+                <nav>
+<ul class="clearfix" data-menu-level="1">
+        <li class=" level1 submenu item0 odd first rel-level1" data-menu-element-id="6db03d5c-2e83-4e88-adbe-b7b9c71763d2">
+<div class="navigation-title field-navigationtitle"><a title="wheels-castors" href="/wheels-castors">Wheels &amp; Castors</a></div><ul class="clearfix" data-menu-level="2">
+        <li class=" level2 item0 odd first rel-level2" data-menu-element-id="33227e00-1b53-4075-9cc0-0bb685cc1dbf">
+<div class="navigation-title field-navigationtitle"><a title="standard-range" href="/wheels-castors/standard-range">Standard range</a></div>
+        </li>
+        <li class=" level2 item1 even last rel-level2" data-menu-element-id="30e35415-48de-4141-9a36-fd840b8775b1">
+<div class="navigation-title field-navigationtitle"><a title="special-versions" href="/wheels-castors/special-versions">Special versions</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 item1 even rel-level1" data-menu-element-id="60f8d62b-dda8-4e6d-87e3-1cb8594ffb41">
+<div class="navigation-title field-navigationtitle"><a title="productfinder" href="/productfinder">Product Finder</a></div>
+        </li>
+        <li class=" level1 submenu item2 odd rel-level1" data-menu-element-id="91f36179-adb1-481b-88b6-82950103adad">
+<div class="navigation-title field-navigationtitle"><a title="Services" href="/services">Services</a></div><ul class="clearfix" data-menu-level="2">
+        <li class=" level2 item0 odd first rel-level2" data-menu-element-id="8d31eb29-95f0-4b99-a7ad-ec0573fe7ae0">
+<div class="navigation-title field-navigationtitle"><a title="contact-search" href="/services/contact-search">Contact - International</a></div>
+        </li>
+        <li class=" level2 item1 even rel-level2" data-menu-element-id="87574756-b74d-4068-8d1d-b678586eadf8">
+<div class="navigation-title field-navigationtitle"><a title="cad-downloads" href="/services/cad-downloads">CAD-Downloads</a></div>
+        </li>
+        <li class=" level2 item2 odd rel-level2" data-menu-element-id="db703506-d8eb-4763-b066-774a9405dac4">
+<div class="navigation-title field-navigationtitle"><a title="online-catalogue" href="/services/online-catalogue">Online catalogue</a></div>
+        </li>
+        <li class=" level2 item3 even rel-level2" data-menu-element-id="a10199cb-88da-49cf-a773-390586adaaa3">
+<div class="navigation-title field-navigationtitle"><a title="e-procurement" href="/services/e-procurement">E-procurement</a></div>
+        </li>
+        <li class=" level2 item4 odd last rel-level2" data-menu-element-id="2eaec6e4-f1c4-4598-82d4-25e2a1822b06">
+<div class="navigation-title field-navigationtitle"><a title="media-library" href="/services/media-library">Media library</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item3 even rel-level1" data-menu-element-id="eb43c4ab-674b-4789-93d2-c23315a1e95c">
+<div class="navigation-title field-navigationtitle"><a title="industry-solutions" href="/industry-solutions">Industry solutions</a></div><ul class="clearfix" data-menu-level="2">
+        <li class=" level2 item0 odd first rel-level2" data-menu-element-id="b725a20e-fc80-4032-b271-10047fc49652">
+<div class="navigation-title field-navigationtitle"><a title="applications" href="/industry-solutions/applications">Applications</a></div>
+        </li>
+        <li class=" level2 item1 even last rel-level2" data-menu-element-id="94715b4a-11b6-415a-9f77-6fabe205da29">
+<div class="navigation-title field-navigationtitle"><a title="success-stories" href="/industry-solutions/success-stories">Success Stories</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 item4 odd rel-level1" data-menu-element-id="af53e263-1b22-4da5-a8ce-a80d701d4dd3">
+<div class="navigation-title field-navigationtitle"><a title="ergomove" href="/ergomove">ErgoMove</a></div>
+        </li>
+        <li class=" level1 submenu item5 even last rel-level1" data-menu-element-id="91a2fa1b-3533-4511-acca-ea13d10d1aab">
+<div class="navigation-title field-navigationtitle"><a title="guide" href="/guide">Wheel &amp; Castor Guide</a></div><ul class="clearfix" data-menu-level="2">
+        <li class=" level2 item0 odd first rel-level2" data-menu-element-id="415ce003-0bbe-4e80-8d95-82e90826bdd3">
+<div class="navigation-title field-navigationtitle"><a title="swivel-castors" href="/guide/swivel-castors">Swivel castors</a></div>
+        </li>
+        <li class=" level2 item1 even rel-level2" data-menu-element-id="0b939971-27fb-4c76-9388-b551e8aca336">
+<div class="navigation-title field-navigationtitle"><a title="fixed-castor-wheels" href="/guide/fixed-castor-wheels">Fixed castor wheels</a></div>
+        </li>
+        <li class=" level2 item2 odd rel-level2" data-menu-element-id="c39705ea-82ef-4853-a836-091dc304b861">
+<div class="navigation-title field-navigationtitle"><a title="pallet-truck-wheels" href="/guide/pallet-truck-wheels">Pallet truck wheels</a></div>
+        </li>
+        <li class=" level2 item4 odd rel-level2" data-menu-element-id="206163e4-6409-403d-b2b3-4dd6a0ad2893">
+<div class="navigation-title field-navigationtitle"><a title="heavy-duty-castors" href="/guide/heavy-duty-castors">Heavy duty castors</a></div>
+        </li>
+        <li class=" level2 item5 even rel-level2" data-menu-element-id="9ba118a6-5ef6-4e1a-9b8e-649ac3c58157">
+<div class="navigation-title field-navigationtitle"><a title="trolley-castors" href="/guide/trolley-castors">Trolley castors</a></div>
+        </li>
+        <li class=" level2 item6 odd last rel-level2" data-menu-element-id="f3cf9391-48c3-4409-928e-492030bba337">
+<div class="navigation-title field-navigationtitle"><a title="shipping-container-castors" href="/guide/shipping-container-castors">Shipping container castors</a></div>
+        </li>
+</ul>
+
+        </li>
+</ul>
+
+                </nav>
+            </div>
+        </div>
+</div>
+        </div>
+        <div class="col-2">
+            <div class="row">
+
+
+<div class="component link close-btn-blue col-3 position-center">
+    <div class="component-content">
+
+<a class="field-link"></a>    </div>
+</div>
+
+
+<div class="component link search-loop-blue bg-white col-3 position-center">
+    <div class="component-content">
+
+<a class="field-link"></a>    </div>
+</div>
+
+
+</div>
+        </div>
+</div></div>    </div>
+</div></div>    </div>
+</div>
+
+
+<div class="component container col-12">
+    <div class="component-content" >
+<div class="row">
+
+
+<div class="component container">
+    <div class="component-content" >
+<div class="row">
+<div class="row component column-splitter">
+        <div class="col-12">
+            <div class="row">
+
+
+    <div class="component search-box horizontal search-box-main-menu" data-properties='{"endpoint":"//api/sitecore/SearchProductsAndContent/getresults","suggestionEndpoint":"//sxa/search/suggestions/","suggestionsMode":"ShowSearchResults","resultPage":"/search","targetSignature":"","v":"{65A54933-78B0-4931-865C-ABBCA16FD03B}","s":"{1005CABE-F37D-42B9-971B-A6BF661CD336}","p":5,"l":"en","languageSource":"CurrentLanguage","searchResultsSignature":"fulltextsearch,productsearch","itemid":"{00AB9442-B37C-483D-B4CB-1FFEAE96433E}","minSuggestionsTriggerCharacterCount":2}'>
+        <div class="component-content">
+            
+                    <input type="text" class="search-box-input" autocomplete="off" id="textBoxSearch" name="textBoxSearch" placeholder="Search here..." />
+                    <button class="search-box-button-with-redirect" aria-label="Search" type="submit">
+                        Search
+                    </button>
+        </div>
+    </div>
+</div>
+        </div>
+</div></div>    </div>
+</div></div>    </div>
+</div>
+
+
+<div class="component container col-12 d-block d-sm-block d-md-block d-lg-none d-xl-none container-lightgray-background">
+    <div class="component-content" >
+<div class="row">
+    <div class="component toggle col-12 main-navigation navigation-mobile-toggle-btn" data-properties="{&quot;easing&quot;:&quot;swing&quot;,&quot;speed&quot;:500,&quot;expandOnHover&quot;:false,&quot;expandedByDefault&quot;:false}">
+<div class="row">
+
+<div class="component image file-type-icon-media-link">
+    <div class="component-content">
+<a title="company-logo-mobile" href="/"><img src="/-/media/project/blickle/global-web/header/blickle_logo-mobil.svg?iar=0&amp;fh=df16d9a05923f4a5fcffac4958b7e8b1&amp;hash=CBCBE9AF7DBF9622958D2B80F3CA394A" alt="" data-variantitemid="{625691D4-1A27-4190-9E8E-CC02DA48EAFD}" data-variantfieldname="Image" /></a>    </div>
+</div>
+
+
+
+    <div class="component search-box horizontal icon-search-btn " data-properties='{"endpoint":"//api/sitecore/SearchProductsAndContent/getresults","suggestionEndpoint":"//sxa/search/suggestions/","suggestionsMode":"ShowSearchResults","resultPage":"/search","targetSignature":"","v":"{4899BF70-F695-4D30-A91C-7F3641CB8A3B}","s":"{1005CABE-F37D-42B9-971B-A6BF661CD336}","p":5,"l":"en","languageSource":"CurrentLanguage","searchResultsSignature":"fulltextsearch,productsearch","itemid":"{00AB9442-B37C-483D-B4CB-1FFEAE96433E}","minSuggestionsTriggerCharacterCount":2}'>
+        <div class="component-content">
+            
+                    <input type="text" class="search-box-input" autocomplete="off" id="textBoxSearch" name="textBoxSearch" placeholder="Search here..." />
+                    <button class="search-box-button-with-redirect" aria-label="Search" type="submit">
+                        Search
+                    </button>
+        </div>
+    </div>
+</div>        <div class="component-content">
+            <details class="toggle-content clearfix">
+                <summary class="toggle-header"
+                         tabindex="0">
+                    <span class="toggle-label">
+                    </span>
+                </summary>
+                <div class="row">
+
+<div class="component row-splitter">
+        <div class="container-fluid">
+            <div >
+                <div class="row">        <div class="component navigation navigation-title col-12 navigation-mobile">
+            <div class="component-content">
+                <nav>
+<ul class="clearfix" data-menu-level="1">
+        <li class=" level1 submenu item0 odd first rel-level1" data-menu-element-id="6db03d5c-2e83-4e88-adbe-b7b9c71763d2">
+<div class="navigation-title field-navigationtitle"><a title="wheels-castors" href="/wheels-castors">Wheels &amp; Castors</a></div><ul class="clearfix" data-menu-level="2">
+        <li class=" level2 item0 odd first rel-level2" data-menu-element-id="33227e00-1b53-4075-9cc0-0bb685cc1dbf">
+<div class="navigation-title field-navigationtitle"><a title="standard-range" href="/wheels-castors/standard-range">Standard range</a></div>
+        </li>
+        <li class=" level2 item1 even last rel-level2" data-menu-element-id="30e35415-48de-4141-9a36-fd840b8775b1">
+<div class="navigation-title field-navigationtitle"><a title="special-versions" href="/wheels-castors/special-versions">Special versions</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 item1 even rel-level1" data-menu-element-id="60f8d62b-dda8-4e6d-87e3-1cb8594ffb41">
+<div class="navigation-title field-navigationtitle"><a title="productfinder" href="/productfinder">Product Finder</a></div>
+        </li>
+        <li class=" level1 submenu item2 odd rel-level1" data-menu-element-id="91f36179-adb1-481b-88b6-82950103adad">
+<div class="navigation-title field-navigationtitle"><a title="Services" href="/services">Services</a></div><ul class="clearfix" data-menu-level="2">
+        <li class=" level2 item0 odd first rel-level2" data-menu-element-id="8d31eb29-95f0-4b99-a7ad-ec0573fe7ae0">
+<div class="navigation-title field-navigationtitle"><a title="contact-search" href="/services/contact-search">Contact - International</a></div>
+        </li>
+        <li class=" level2 item1 even rel-level2" data-menu-element-id="87574756-b74d-4068-8d1d-b678586eadf8">
+<div class="navigation-title field-navigationtitle"><a title="cad-downloads" href="/services/cad-downloads">CAD-Downloads</a></div>
+        </li>
+        <li class=" level2 item2 odd rel-level2" data-menu-element-id="db703506-d8eb-4763-b066-774a9405dac4">
+<div class="navigation-title field-navigationtitle"><a title="online-catalogue" href="/services/online-catalogue">Online catalogue</a></div>
+        </li>
+        <li class=" level2 item3 even rel-level2" data-menu-element-id="a10199cb-88da-49cf-a773-390586adaaa3">
+<div class="navigation-title field-navigationtitle"><a title="e-procurement" href="/services/e-procurement">E-procurement</a></div>
+        </li>
+        <li class=" level2 item4 odd last rel-level2" data-menu-element-id="2eaec6e4-f1c4-4598-82d4-25e2a1822b06">
+<div class="navigation-title field-navigationtitle"><a title="media-library" href="/services/media-library">Media library</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item3 even rel-level1" data-menu-element-id="eb43c4ab-674b-4789-93d2-c23315a1e95c">
+<div class="navigation-title field-navigationtitle"><a title="industry-solutions" href="/industry-solutions">Industry solutions</a></div><ul class="clearfix" data-menu-level="2">
+        <li class=" level2 item0 odd first rel-level2" data-menu-element-id="b725a20e-fc80-4032-b271-10047fc49652">
+<div class="navigation-title field-navigationtitle"><a title="applications" href="/industry-solutions/applications">Applications</a></div>
+        </li>
+        <li class=" level2 item1 even last rel-level2" data-menu-element-id="94715b4a-11b6-415a-9f77-6fabe205da29">
+<div class="navigation-title field-navigationtitle"><a title="success-stories" href="/industry-solutions/success-stories">Success Stories</a></div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 item4 odd rel-level1" data-menu-element-id="af53e263-1b22-4da5-a8ce-a80d701d4dd3">
+<div class="navigation-title field-navigationtitle"><a title="ergomove" href="/ergomove">ErgoMove</a></div>
+        </li>
+        <li class=" level1 submenu item5 even last rel-level1" data-menu-element-id="91a2fa1b-3533-4511-acca-ea13d10d1aab">
+<div class="navigation-title field-navigationtitle"><a title="guide" href="/guide">Wheel &amp; Castor Guide</a></div><ul class="clearfix" data-menu-level="2">
+        <li class=" level2 item0 odd first rel-level2" data-menu-element-id="415ce003-0bbe-4e80-8d95-82e90826bdd3">
+<div class="navigation-title field-navigationtitle"><a title="swivel-castors" href="/guide/swivel-castors">Swivel castors</a></div>
+        </li>
+        <li class=" level2 item1 even rel-level2" data-menu-element-id="0b939971-27fb-4c76-9388-b551e8aca336">
+<div class="navigation-title field-navigationtitle"><a title="fixed-castor-wheels" href="/guide/fixed-castor-wheels">Fixed castor wheels</a></div>
+        </li>
+        <li class=" level2 item2 odd rel-level2" data-menu-element-id="c39705ea-82ef-4853-a836-091dc304b861">
+<div class="navigation-title field-navigationtitle"><a title="pallet-truck-wheels" href="/guide/pallet-truck-wheels">Pallet truck wheels</a></div>
+        </li>
+        <li class=" level2 item4 odd rel-level2" data-menu-element-id="206163e4-6409-403d-b2b3-4dd6a0ad2893">
+<div class="navigation-title field-navigationtitle"><a title="heavy-duty-castors" href="/guide/heavy-duty-castors">Heavy duty castors</a></div>
+        </li>
+        <li class=" level2 item5 even rel-level2" data-menu-element-id="9ba118a6-5ef6-4e1a-9b8e-649ac3c58157">
+<div class="navigation-title field-navigationtitle"><a title="trolley-castors" href="/guide/trolley-castors">Trolley castors</a></div>
+        </li>
+        <li class=" level2 item6 odd last rel-level2" data-menu-element-id="f3cf9391-48c3-4409-928e-492030bba337">
+<div class="navigation-title field-navigationtitle"><a title="shipping-container-castors" href="/guide/shipping-container-castors">Shipping container castors</a></div>
+        </li>
+</ul>
+
+        </li>
+</ul>
+
+                </nav>
+            </div>
+        </div>
+</div>
+            </div>
+        </div>
+        <div class=" blickle-dark-grey container-fluid">
+            <div >
+                <div class="row">
+<div class="component col-12 justify-left language-selector-mobile">
+        <div class="blickle-language-selector hidden">
+            <div class="language-selector-header">
+                <span class="language-selector-label">Language/country selection</span>
+                <span class="language-selector-label-mobile">INT</span>
+                    <img src="/-/media/project/blickle/shared/countries/icon-sprache.png?fh=e05afe5c874f7e41d28b3ed41e1648fb&amp;mh=0&amp;mw=0&amp;hash=A29A8DD2ECF81F7B9DD0429044C7FED2" 
+         alt="" 
+         class="image-desktop" 
+         title=""
+         />
+
+                    <img src="/-/media/project/blickle/shared/countries/icon_sprache_40.png?fh=171053d38965dcd4b119075c81d3fccf&amp;mh=0&amp;mw=0&amp;hash=B03F9395CE8698DA9053222FBC05A665" 
+         alt="countries" 
+         class="image-mobile" 
+         title=""
+         />
+
+
+                
+                    <img src="/-/media/project/blickle/shared/countries/weltkugel.png?fh=f3d16522c7a6ef85e1776787ffd6e762&amp;mh=16&amp;mw=27&amp;hash=47CC05E1569B4A435B5579C68F4CD7A4" 
+         alt="Globe" 
+         class="country-image" 
+         title="Globe"
+         />
+
+                <span class="country-selector-label">INT</span>
+
+            </div>
+            <div class="language-selector-body">
+                <div class="language-selector-body-container">
+                        <div class="continent">
+                            <div class="continent-headline">
+                                Blickle International
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/weltkugel.png?fh=f3d16522c7a6ef85e1776787ffd6e762&amp;mh=16&amp;mw=27&amp;hash=47CC05E1569B4A435B5579C68F4CD7A4" 
+         alt="Globe" 
+         class="country-image" 
+         title="Globe"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com/">Global English</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                North America
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/ca.jpg?fh=fb6a26b83358fc439187b92293cae77d&amp;mh=16&amp;mw=27&amp;hash=ADF1D742BBDF5E7C76874FCA06A5DB6B" 
+         alt="Canada" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <span>Canada</span>
+                                            <div class="language-selector-language-list">
+
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.ca/fr-ca">(FR)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.ca/en-ca">(EN)</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/usa.jpg?fh=ef535e65195cdb569ce173940fc76863&amp;mh=16&amp;mw=27&amp;hash=BA42A12847A9C14FA735A98896819B3E" 
+         alt="USA" 
+         class="country-image" 
+         title="USA"
+         loading="lazy"/>
+
+
+                                            <span>USA</span>
+                                            <div class="language-selector-language-list">
+
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.us/en-us">(EN)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.us/es-us">(ES)</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/mx.jpg?fh=c24101983cd2944479898eee4bafc378&amp;mh=16&amp;mw=27&amp;hash=0C4A0051B30791C5344C2D97334C193E" 
+         alt="Mexico" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.mx/">Mexico</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                South America
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/br.jpg?fh=2fe637fc8ffe91c4f642d30f1a7443e1&amp;mh=16&amp;mw=27&amp;hash=FACDF333C4FC104A4BABD42E71A6CC67" 
+         alt="Brazil" 
+         class="country-image" 
+         title="Brazil"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.br/">Brazil</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/col.jpg?fh=574ce6217b02d929d7616e75cab71a52&amp;mh=16&amp;mw=27&amp;hash=F77E16E559302BC5E5EFAB541856ACAB" 
+         alt="Colombia" 
+         class="country-image" 
+         title="Colombia"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.rodamex-blickle.com/">Colombia</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                Asia
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/cn.jpg?fh=c7e1761ed41f90e84d5ecf6380ada8d0&amp;mh=16&amp;mw=27&amp;hash=4CAAB7D0ADBDA46904799797B4144BF5" 
+         alt="China" 
+         class="country-image" 
+         title="China"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.cn/">China</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/jp.jpg?fh=a44f6659e468ac460a73cc4708d15b91&amp;mh=16&amp;mw=27&amp;hash=2B89E453756292BFD005F0B8627FBE56" 
+         alt="Japan" 
+         class="country-image" 
+         title="Japan"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.jp/">Japan</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/kr.jpg?fh=7153dcccf4e76918850a6e7bd93b6ee9&amp;mh=16&amp;mw=27&amp;hash=44607F223186AFC6A6BDDDBA8B38FA5A" 
+         alt="South Korea" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.kr/">South Korea</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/vietnam.jpg?fh=e3b0b794bf9bad674dfd7d64dd931b81&amp;mh=16&amp;mw=27&amp;hash=91BF20F84D77455A7CD3BAA140ECF982" 
+         alt="Vietnam" 
+         class="country-image" 
+         title="Vietnam"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.vn/">Vietnam</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/in.jpg?fh=d1d194e9d071495255eb35cc3a791916&amp;mh=16&amp;mw=27&amp;hash=6F78C05F2B1520A22DFCC819E6E9EE52" 
+         alt="India" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.in/">India</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                Australia
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/au.jpg?fh=3c1b0cf5a6e15bf93371f9ad0e80c233&amp;mh=16&amp;mw=27&amp;hash=AC0B1971E1AF9A736AFD1258B1A7929C" 
+         alt="Australia" 
+         class="country-image" 
+         title="Australia"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.au/">Australia</a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="continent">
+                            <div class="continent-headline">
+                                Europe
+                            </div>
+                            <div class="continent-body">
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/at.jpg?fh=91f82ca22085ef87eb22e752f9d6691e&amp;mh=16&amp;mw=27&amp;hash=0EE6CC24FA2232D33B7D13B741E08172" 
+         alt="Austria" 
+         class="country-image" 
+         title="Austria"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.at/">Austria</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/be.jpg?fh=7265c9b45ee9c6855e6b5cf66867aa91&amp;mh=16&amp;mw=27&amp;hash=344C95D4ED04125E12273BDD014BA88C" 
+         alt="Belgium" 
+         class="country-image" 
+         title="Belgium"
+         loading="lazy"/>
+
+
+                                            <span>Belgium</span>
+                                            <div class="language-selector-language-list">
+
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.be/nl-be">(NL)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle.be/fr-be">(FR)</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/cz.jpg?fh=922bb0f0691623bb1c2922c118bb4185&amp;mh=16&amp;mw=27&amp;hash=F3DBB6C58EA2CA2C2011EF1285E8C8AA" 
+         alt="Czech Republic" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.cz/">Czech Republic</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/dk.jpg?fh=365d50afbc9d64690670ac3b49abaa28&amp;mh=16&amp;mw=27&amp;hash=7E71D41CF4306362406B8356777F8658" 
+         alt="Denmark" 
+         class="country-image" 
+         title="Denmark"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.dk/">Denmark</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/ee.jpg?fh=7e0700b4519a4abfc1ea758ce82a2404&amp;mh=16&amp;mw=27&amp;hash=BB1B8CB0D715164C2D665A8BBDA830C1" 
+         alt="Estonia" 
+         class="country-image" 
+         title="Estonia"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.ee/">Estonia</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/fi.jpg?fh=5958e5a3dead55a861d656fad8a5a76f&amp;mh=16&amp;mw=27&amp;hash=9D4F8BDDFCA15807B24887A3C9EA8375" 
+         alt="Finland" 
+         class="country-image" 
+         title="Finland"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.fi/">Finland</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/fr.jpg?fh=c4a294a43f67b21b4d51033264138a14&amp;mh=16&amp;mw=27&amp;hash=DDBA56344CE7DEB954536FB2C0E2E73F" 
+         alt="France" 
+         class="country-image" 
+         title="France"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.fr/">France</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/de.png?fh=79f440aee010d4a96fa0237cd096a199&amp;mh=16&amp;mw=27&amp;hash=54C06F32F92028C7ECC83A89DC130922" 
+         alt="Germany" 
+         class="country-image" 
+         title="Germany"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.de/">Germany</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/hu.jpg?fh=b7fcb153a4213293e7f9b8c1e508a7d0&amp;mh=16&amp;mw=27&amp;hash=F9AC402EADFFD9734708DB0FC855F164" 
+         alt="Hungary" 
+         class="country-image" 
+         title="Hungary"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.hu/">Hungary</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/it.jpg?fh=7416e045fa015246d3eb47db37d03de4&amp;mh=16&amp;mw=27&amp;hash=A82EEBE5D569580696C0956FCDBC4B92" 
+         alt="Italy" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.it/">Italy</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/lt.jpg?fh=23ff34b2c3b62dc32616334b36410f05&amp;mh=16&amp;mw=27&amp;hash=8947D409B1128D81C8AF559C8B26FB38" 
+         alt="Lithuania" 
+         class="country-image" 
+         title="Lithuania"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.lt/">Lithuania</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/nl.jpg?fh=8f6c6d758e36c23b848ef06e8d199ee7&amp;mh=16&amp;mw=27&amp;hash=1FCA5BBAFC51475D63E3E8AB70EB62B0" 
+         alt="Netherlands" 
+         class="country-image" 
+         title="Netherlands"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.nl/">Netherlands</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/no.jpg?fh=fb0c6c8ab78846749cd9767368e52d42&amp;mh=16&amp;mw=27&amp;hash=CFCDED0484D425FBDA418142E2158EEC" 
+         alt="Norway" 
+         class="country-image" 
+         title="Norway"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.no/">Norway</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/pl.jpg?fh=bad6f7d6ea83b86ac516100a9c3ca3eb&amp;mh=16&amp;mw=27&amp;hash=C905EFF246E78798FA9A0CBC0853BC10" 
+         alt="Poland" 
+         class="country-image" 
+         title="Poland"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.pl/">Poland</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/pt.jpg?fh=dd37f43e8624894b36354c90a796802f&amp;mh=16&amp;mw=27&amp;hash=69661136E4B74195BBA6B76BA1808EB5" 
+         alt="Portugal" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.pt/">Portugal</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/ro.jpg?fh=9e3cc8e4eff7f99dc85c551079cd04a3&amp;mh=16&amp;mw=27&amp;hash=3E281AAE418DF823F560C3B9D8625D01" 
+         alt="Romania" 
+         class="country-image" 
+         title="Romania"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.ro/">Romania</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/sk.jpg?fh=91aee145d7baa2736dc1fa5932b76f6e&amp;mh=16&amp;mw=27&amp;hash=3F4DAD48D16262B73509B0473C44CD84" 
+         alt="Slovakia" 
+         class="country-image" 
+         title="Slovakia"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.eu/">Slovakia</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/es.jpg?fh=0fcba43a2175dabe0e2ec1c7fa75ab16&amp;mh=16&amp;mw=27&amp;hash=661786746C598C737B95D36089BCEA53" 
+         alt="Spain" 
+         class="country-image" 
+         title=""
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.es/">Spain</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/se.jpg?fh=2a5de24273633bd1345f86cf84bb1970&amp;mh=16&amp;mw=27&amp;hash=41D32EE87C9172C307E5CD6838918421" 
+         alt="Sweden" 
+         class="country-image" 
+         title="Sweden"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.se/">Sweden</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/ch.jpg?fh=6997bfe5e1727518f09eb6ddd81f8702&amp;mh=16&amp;mw=27&amp;hash=8274B39DBF321114E46BB4F3C69CF339" 
+         alt="Switzerland" 
+         class="country-image" 
+         title="Switzerland"
+         loading="lazy"/>
+
+
+                                            <span>Switzerland</span>
+                                            <div class="language-selector-language-list">
+
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle-raeder.ch/de-ch">(DE)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle-raeder.ch/fr-ch">(FR)</a>
+                                                    </div>
+                                                        <span>|</span>
+                                                    <div>
+                                                        <a class="language-selector-language " href="https://www.blickle-raeder.ch/it-ch">(IT)</a>
+                                                    </div>
+                                            </div>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/tr.jpg?fh=0604ad7a29d0780ad974ca05f58f18b4&amp;mh=16&amp;mw=27&amp;hash=F2A6FC0400AD841EA6D1F19EC04A974E" 
+         alt="Turkey" 
+         class="country-image" 
+         title="Turkey"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.com.tr/">T&#252;rkiye</a>
+                                    </div>
+                                    <div class="language-selector-country">
+                                        
+                                            <img src="/-/media/project/blickle/shared/countries/uk.jpg?fh=427f1322552a312c1b156abc51bb083b&amp;mh=16&amp;mw=27&amp;hash=BC238D232D79481352EFB5B6D8DDA4FD" 
+         alt="L&#228;nderflagge UK" 
+         class="country-image" 
+         title="United Kingdom"
+         loading="lazy"/>
+
+
+                                            <a class="language-selector-language language-selector-language-single " href="https://www.blickle.co.uk/">United Kingdom</a>
+                                    </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="component divider col-12 white-space-divider">
+    <div class="component-content">
+        <hr />
+    </div>
+</div>
+        <div class="component navigation meta-navigation col-12 navigation-mobile">
+            <div class="component-content">
+                <nav>
+<ul class="clearfix" data-menu-level="1">
+        <li class=" level0 item0 odd first flat-level1 rel-level1" data-menu-element-id="deca570f-bcc7-46f4-9169-482e1978bdb5">
+<div class="navigation-title field-navigationtitle"><a title="company" href="/company">Company</a></div>
+        </li>
+        <li class=" level0 item1 even flat-level1 rel-level1" data-menu-element-id="d43f0840-260b-4174-b7b3-42c6e5545c2b">
+<div class="navigation-title field-navigationtitle"><a title="news" href="/news">News</a></div>
+        </li>
+        <li class=" level0 item2 odd flat-level1 rel-level1" data-menu-element-id="28db8f82-f056-4852-a157-58a9b2d9dc29">
+<div class="navigation-title field-navigationtitle"><a title="trade-fairs" href="/trade-fairs">Trade fairs</a></div>
+        </li>
+        <li class=" level0 item3 even last flat-level1 rel-level1" data-menu-element-id="86c55922-f138-4bf4-9bf9-a81ed2602d8c">
+<div class="navigation-title field-navigationtitle"><a title="contact" href="/contact">Contact</a></div>
+        </li>
+</ul>
+
+                </nav>
+            </div>
+        </div>
+</div>
+            </div>
+        </div>
+</div></div>
+            </details>
+        </div>
+    </div>
+</div>    </div>
+</div>
+
+
+<div class="component container">
+    <div class="component-content" >
+<div class="row"></div>    </div>
+</div>
+
+
+<div class="component container">
+    <div class="component-content" >
+<div class="row">
+    <div class="component breadcrumb navigation-title col-12 d-sm-none d-md-block d-lg-block d-xl-block">
+        <div class="component-content">
+            <nav>
+                <ol>
+                        <li class="breadcrumb-item home">
+<div class="navigation-title field-navigationtitle"><a title="Home" href="/">Home</a></div>                                <span class="separator">&gt;</span>
+                        </li>
+                        <li class="breadcrumb-item last">
+<div class="navigation-title field-navigationtitle"><a title="404 Error Page" href="/404-error-page">404 Error Page</a></div>                                <span class="separator">&gt;</span>
+                        </li>
+                </ol>
+            </nav>
+        </div>
+                <script type="application/ld+json">
+                    {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.blickle.com/"},{"@type":"ListItem","position":2,"name":"404 Error Page","item":"https://www.blickle.com/404-error-page"}]}
+                </script>
+    </div>
+
+
+
+
+
+</div>    </div>
+</div></div>
+            </div>
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="container">
+            <div class="row">
+
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+        </div>
+    </div>
+
+
+
+
+
+<div class="component container col-12">
+    <div class="component-content" >
+<div class="row">
+
+    <div class="component headline h1 col-12">
+        <div class="component-content">
+<h1 class="field-title">Error page</h1>        </div>
+    </div>
+
+
+    <div class="component headline h2 col-12 bottom-xs">
+        <div class="component-content">
+<h2 class="field-title">Unfortunately, this page is currently unavailable. </h2>        </div>
+    </div>
+
+
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+<p>Thank you for your patience. <br />
+Please contact your personal <a href="/services/contact-search">point of contact</a>.</p>        </div>
+    </div>
+</div>    </div>
+</div>
+
+
+
+    <div class="component sticky-menu sticky-menu-blue-icons">
+        <div class="component-content">
+            <div class="sticky-menu-wrapper">
+                <nav>
+                    <div id="toast-popup" class="popup">
+                        <div class="popup-product-img">
+                            <img id="toast-popup-img" src="" alt="" />
+                        </div>
+                        <div id="toast-popup-text" class="toast-popup-text">
+                            StickyMenu.ToastPopupAddToBasketText
+                        </div>
+                        <div id="toast-popup-text-productcompare" class="toast-popup-text-productcompare">
+                            The product <span class="popup-productname">XXX</span> has been added for comparison.
+                        </div>
+                        <div id="toast-popup-text-wishlist" class="toast-popup-text-wishlist">
+                            The product <span class="popup-productname">XXX</span> has been added to your wish list.
+                        </div>
+                    </div>
+                    <ul class="sticky-menu">
+                        <li class="sticky-menu-user-not-login" data-pageItemId="{A797AD25-266E-4DA8-A1A7-25925870F47D}">
+                            <a href="#" class="sticky-menu-not-login">
+                                <span class="icon sticky-account-icon">
+                                    <label>Login</label>
+                                </span>
+                                <i class="sticky-info-icon icon-user-account"></i>
+                            </a>
+                            <div class="sticky-menu-dropdown sticky-login-info-menu">
+                                <div class="sub-menu not-logged-in">
+                                    <div class="login-header-section">
+                                        <span class="login-headline">Login for business customers.</span>
+                                        <a href="" class="faq-link"></a>
+                                    </div>
+                                    <div class="input-section">
+                                        <input type="text" class="login-input email" name="EMail" placeholder="Mail" />
+                                        <input type="password" class="login-input password" name="Password" id="StickyPassword" placeholder="Password" />
+                                        <span toggle="#StickyPassword" class="field-icon toggle-password fa-eye"></span>
+                                    </div>
+                                    <div class="error-section"></div>
+                                    <div class="info-section"></div>
+                                    <div class="modal-footer-section">
+                                        <a href="/password-forgotten">Forgot Password</a>
+                                        <div class="login-btn button-link field-link">
+                                            <a onclick="XA.component.stickyMenu.login(event)">Login</a>
+                                        </div>
+                                    </div>
+                                    <div class="registration-section">
+                                        <a href="/contact?Dropdown%20list=CAD%20user%20registration">Registration</a>
+                                    </div>
+                                </div>
+                                <div class="sub-menu logged-in">
+                                                                        <a onclick="XA.component.stickyMenu.logout(event)">Logout</a>
+                                </div>
+                            </div>
+                        </li>
+                                                    <li class="sticky-menu-watchlist" data-productdetailbaseurl="/product">
+                                <a href="#">
+                                    <span class="icon sticky-watchlist-icon"></span>
+                                    <i class="sticky-info-icon">0</i>
+                                </a>
+                                <div class="sticky-menu-dropdown sticky-watchlist-menu">
+                                    <div 
+                                        class="no-products-hint h5"
+                                    >There are currently no products in the Watchlist.</div>
+                                    <div class="watchlist-products"></div>
+                                </div>
+                            </li>
+                        <li class="sticky-menu-compare" data-productdetailbaseurl="/product"
+                            data-productfinderurl="/productfinder"
+                            data-productcomparisonurl="/product-comparison"
+                            data-isproductfinderpage="false"
+                            data-textnoselection="Go to Product Finder"
+                            data-textwithselection="Compare products">
+                            <a href="#">
+                                <span class="icon sticky-compare-icon"></span>
+                                <i class="sticky-info-icon hide-indicator">0</i>
+                            </a>
+                            <div class="sticky-menu-dropdown sticky-compare-menu">
+                                <div 
+                                    class="no-products-hint h5"
+                                >There are no products in the product comparison.</div>
+                                <div class="compare-products"></div>
+                                <div class="compare-product-submit">
+                                        <a href="/productfinder" class="submit-link">Go to Product Finder</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <a>
+                                <span class="icon sticky-contact-icon"></span>
+                            </a>
+
+                                <div class="sticky-menu-dropdown sticky-search-contact-menu">
+                                    <div class="sticky-contact-select-results">
+                                        
+
+
+
+
+
+    <div class="result-list row">
+            <div class="sticky-contact-search-result">
+
+                                    <div class="sticky-contact-select-result">
+                        <div class="sticky-contact-select-result-label">Blickle R&#228;der+Rollen GmbH u. Co. KG</div>
+
+                        <div class="sticky-contact-select-result-address">
+                            Heinrich-Blickle-Straße 1 <br />72348 Rosenfeld<br />Germany<br />
+                        </div>
+
+                        <div class="sticky-contact-select-result-phone">
+                            <div class="contact-detail-label">
+                                Telephone
+                            </div>
+                            <div class="contact-detail-value">
+                                <a href="tel:+4974289320">+49 7428 932-0</a>
+                            </div>
+                        </div>
+                        <div class="sticky-contact-select-result-email">
+                            <div class="contact-detail-label">
+                                Email
+                            </div>
+                            <div class="contact-detail-value">
+                                <a href="mailto:info@blickle.com">info@blickle.com</a>
+                            </div>
+                        </div>
+
+                    </div>
+            </div>
+    </div>
+
+                                    </div>
+                                </div>
+                            <input type="hidden" class="sticky-menu-data-context" data-context="{CD05CAF2-4152-451E-9718-D1B4E5720728}" />
+                            <input type="hidden" class="stickyMenuPageItemId" data-context="{A797AD25-266E-4DA8-A1A7-25925870F47D}" />
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+</div>
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+   
+    <footer>
+            <div id="footer" class="container-fluid">
+                <div class="row">
+
+<div class="component main-footer container-fluid">
+    <div class="row">
+        <div class="component row-splitter">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="component container wrapper-container">
+                        <div class="component-content">
+                            <div class="row">
+
+
+<div class="component link standard col-12 position-right scroll-to-top">
+    <div class="component-content">
+
+<div class="field-link"><a data-variantfieldname="Link" href="#" data-variantitemid="{17D9E98C-9327-4007-976A-4D80728E4948}">To top</a></div>    </div>
+</div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=" container-dark-background main-footer container-fluid">
+                <div class="row">
+                    <div class="component container">
+                        <div class="component-content">
+                            <div class="row">
+                                <div class="row component column-splitter">
+                                    <div class="col-12 col-md-3 position-left">
+                                        <div class="row">
+
+<div class="component link-list col-12">
+    <div class="component-content">
+        <h3>Products</h3>
+        <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/guide/swivel-castors" data-variantitemid="{9D2B449B-122D-4772-9897-907E1417A8F8}">Swivel castors</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/guide/fixed-castor-wheels" data-variantitemid="{57176C63-9966-496B-823D-ADBA3EA06935}">Fixed castor wheels</a></div>                    </li>
+                    <li class="item2 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/guide/pallet-truck-wheels" data-variantitemid="{9505AC8B-B7D9-47A3-B4BE-3425AE0536BF}">Pallet truck wheels</a></div>                    </li>
+                    <li class="item3 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/guide/castor-wheels-with-brakes" data-variantitemid="{624F4F4A-6777-46A9-BAAA-6FE3CADADA20}">Castor wheels with brakes</a></div>                    </li>
+                    <li class="item4 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/guide/heavy-duty-castors" data-variantitemid="{524418BA-4AB5-4F8A-B814-22C45B57C3BB}">Heavy duty castors</a></div>                    </li>
+                    <li class="item5 even last">
+<div class="field-link"><a data-variantfieldname="Link" href="/guide/trolley-castors" data-variantitemid="{4264D157-772F-4502-9B34-59C365CFEA93}">Trolley castors</a></div>                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+                                    </div>
+                                    <div class="col-12 col-md-3 position-left">
+                                        <div class="row">
+
+<div class="component link-list col-12">
+    <div class="component-content">
+        <h3>Services</h3>
+        <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/services/cad-downloads" data-variantitemid="{CBD0919D-32A9-4113-A9DB-8F4DBB997F5A}">CAD downloads </a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/services/media-library" data-variantitemid="{CDC57575-5FBB-4A69-B44B-D408A52D1C74}">Media library</a></div>                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+                                    </div>
+                                    <div class="col-12 col-md-3 position-left">
+                                        <div class="row">
+
+<div class="component link-list col-12">
+    <div class="component-content">
+        <h3>Legal / Safety</h3>
+        <ul>
+                    <li class="item0 odd first">
+<div class="field-link"><a data-variantfieldname="Link" href="/gtc#terms-and-conditions-of-sale" data-variantitemid="{778BC86E-B4AC-468D-A143-F1BD14E22BCC}">Terms and conditions of sale</a></div>                    </li>
+                    <li class="item1 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/gtc#terms-and-conditions-of-purchase" data-variantitemid="{653ACB02-EA85-4D1B-A72F-FECFFA635920}">Terms and conditions of purchase</a></div>                    </li>
+                    <li class="item2 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/gtc#terms-and-conditions-for-CAD-use" data-variantitemid="{BB31D0A6-94A1-4792-A7F4-D4A2F1E28DDC}">Terms and conditions for CAD use</a></div>                    </li>
+                    <li class="item3 even">
+<div class="field-link"><a data-variantfieldname="Link" href="/product-safety" data-variantitemid="{A6138BA7-045D-4740-9B8D-C9BBDE7551F5}">Product safety</a></div>                    </li>
+                    <li class="item4 odd">
+<div class="field-link"><a data-variantfieldname="Link" href="/product-conformity" data-variantitemid="{D5B8A97E-055E-424E-B2CF-8B029785C4A1}">Product conformity</a></div>                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+                                    </div>
+                                    <div class="col-12 col-md-3">
+                                        <div class="row">
+
+
+    <div class="component rich-text col-12">
+        <div class="component-content">
+<div class="footer-address">
+<span>Contact<br />
+</span>
+<ul>
+    <li>Blickle Räder+Rollen GmbH u. Co. KG</li>
+    <li>Heinrich-Blickle-Str. 1 </li>
+    <li>72348 Rosenfeld</li>
+    <li>Germany</li>
+</ul>
+</div>
+<div class="footer-contact">
+<a href="/contact">Contactform</a> <br />
+<span> Telephone </span>  <a class="phone" href="tel:+49 7428 932-0 " data-auto-event-observed="true">+49 7428 932-0</a><br />
+<a href="/services/contact-search">Contact person search</a>
+</div>        </div>
+    </div>
+
+</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class=" container-green-background container-fluid">
+                <div class="row">
+                    <div class="component container">
+                        <div class="component-content">
+                            <div class="row">
+                                <div class="row component column-splitter">
+                                    <div class="col-12 col-md-3 position-left">
+                                        <div class="row">
+
+
+    <div class="component rich-text col-12 bottom-mobile-xxxl">
+        <div class="component-content">
+&copy;
+<script type="text/javascript">document.write(new Date().getFullYear());</script>
+&nbsp;Blickle R&auml;der+Rollen GmbH u. Co. KG        </div>
+    </div>
+</div>
+                                    </div>
+                                    <div class="col-12 col-md-6 d-none d-sm-none d-md-block d-lg-block d-xl-block">
+                                        <div class="row">        <div class="component navigation navigation-title col-12 navigation-legal">
+            <div class="component-content">
+                <nav>
+<ul class="clearfix" data-menu-level="1">
+        <li class=" level1 item0 odd first rel-level1" data-menu-element-id="3ca0add5-4098-4b41-a7c8-8a2d0f27241f">
+<div class="navigation-title field-navigationtitle"><a title="imprint" href="/imprint">Legal notice</a></div>
+        </li>
+        <li class=" level1 item1 even rel-level1" data-menu-element-id="84c9289f-33fa-4312-ae5c-a885e9f80b27">
+<div class="navigation-title field-navigationtitle"><a title="gtc" href="/gtc">GTC</a></div>
+        </li>
+        <li class=" level1 item2 odd last rel-level1" data-menu-element-id="ca1223c4-30de-4251-befa-24a4df862350">
+<div class="navigation-title field-navigationtitle"><a title="privacy-policy" href="/privacy-policy">Privacy policy</a></div>
+        </li>
+</ul>
+
+                </nav>
+            </div>
+        </div>
+</div>
+                                    </div>
+                                    <div class="col-12 col-md-3 position-right">
+                                        <div class="row">    <div class="component socialbuttons col-12">
+        <div class="component-content">
+<nav><ul><li><div class="field-social-link field-logo"><a class="social-btn-link" target="_blank" rel="noopener follow" href="https://www.facebook.com/blickleinternational/"><img src="/-/media/project/blickle/shared/social-icons/facebook-icon.svg?iar=0&amp;fh=6c5f992114a1dabc33c1cf586e551aa6&amp;hash=175774270830EDB3E8326804C37C1706" alt="facebook icon" title="facebook icon" data-variantitemid="{5D2C24F8-1F9F-4AE1-8DBC-E8A8256A61A8}" data-variantfieldname="Logo" /></a></div></li><li><div class="field-social-link field-logo"><a class="social-btn-link" target="_blank" title="YouTube" rel="noopener follow" href="https://www.youtube.com/@BlickleGroup"><img src="/-/media/project/blickle/shared/social-icons/youtube-icon.svg?iar=0&amp;fh=fc3b0e6b7dc5081db2137bef43db6f17&amp;hash=E2B10E287EF873D8EC4763699687158A" alt="youtube icon" title="youtube icon" data-variantitemid="{22C84B73-AEE3-4C33-9AE8-55DE96F0EA99}" data-variantfieldname="Logo" /></a></div></li><li><div class="field-social-link field-logo"><a class="social-btn-link" target="_blank" title="LinkedIn" rel="noopener follow" href="https://www.linkedin.com/company/blickle-group/"><img src="/-/media/project/blickle/shared/social-icons/linkedin-icon.svg?iar=0&amp;fh=18fd65e825e7bc19945a55ff7005a7c9&amp;hash=0F4BFFBEC2723C1CDE6A6B5FE01F9B9E" alt="linkedin icon" data-variantitemid="{44ED3694-0A4A-4AE2-8A1E-4958BFC62AA4}" data-variantfieldname="Logo" /></a></div></li><li><div class="field-social-link field-logo"><a class="social-btn-link" target="_blank" title="Instagram" rel="noopener follow" href="https://www.instagram.com/blickle_group/"><img src="/-/media/project/blickle/shared/social-icons/instagram_icon.svg?iar=0&amp;fh=315f95c89be0ecea93435b1de3244b38&amp;hash=550454CA1CB43EB931912EEA6EC79009" alt="Instagram" title="Instagram" data-variantitemid="{35241710-68A7-44A0-A77F-06DADE1250D0}" data-variantfieldname="Logo" /></a></div></li></ul></nav>        </div>
+    </div>
+</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="component main-footer-mobile container-fluid">
+    <div class="row">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="component container wrapper-container">
+                    <div class="component-content">
+                        <div class="row">
+
+
+<div class="component link standard col-12 position-right scroll-to-top">
+    <div class="component-content">
+
+<div class="field-link"><a data-variantfieldname="Link" href="#" data-variantitemid="{17D9E98C-9327-4007-976A-4D80728E4948}">To top</a></div>    </div>
+</div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-green-background container-fluid">
+            <div class="row">
+                <div class="component container">
+                    <div class="component-content">
+                        <div class="row">
+
+
+    <div class="component rich-text col-12 position-center">
+        <div class="component-content">
+<strong>Blickle R&auml;der+Rollen GmbH u. Co. KG</strong><br />
+Heinrich-Blickle-Str 1 <span>&bull;</span> 72348 Rosenfeld&nbsp;<span>&bull;­</span> Telefon­­ <a href="tel:+49 7428 932-0">+49 7428 932-0</a><span> &bull;</span> Germany        </div>
+    </div>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-dark-background container-fluid">
+            <div class="row">
+                <div class="component container">
+                    <div class="component-content">
+                        <div class="row component column-splitter">
+                            <div class="col-12">
+                                <div class="row">
+
+
+    <div class="component rich-text col-12 bottom-mobile-xxxl">
+        <div class="component-content">
+&copy;
+<script type="text/javascript">document.write(new Date().getFullYear());</script>
+&nbsp;Blickle R&auml;der+Rollen GmbH u. Co. KG        </div>
+    </div>
+</div>
+                            </div>
+                            <div class="col-12 legal-navigation-mobile">
+                                <div class="row">        <div class="component navigation navigation-title col-12 navigation-legal">
+            <div class="component-content">
+                <nav>
+<ul class="clearfix" data-menu-level="1">
+        <li class=" level1 item0 odd first rel-level1" data-menu-element-id="3ca0add5-4098-4b41-a7c8-8a2d0f27241f">
+<div class="navigation-title field-navigationtitle"><a title="imprint" href="/imprint">Legal notice</a></div>
+        </li>
+        <li class=" level1 item1 even rel-level1" data-menu-element-id="84c9289f-33fa-4312-ae5c-a885e9f80b27">
+<div class="navigation-title field-navigationtitle"><a title="gtc" href="/gtc">GTC</a></div>
+        </li>
+        <li class=" level1 item2 odd last rel-level1" data-menu-element-id="ca1223c4-30de-4251-befa-24a4df862350">
+<div class="navigation-title field-navigationtitle"><a title="privacy-policy" href="/privacy-policy">Privacy policy</a></div>
+        </li>
+</ul>
+
+                </nav>
+            </div>
+        </div>
+</div>
+                            </div>
+                            <div class="col-12 footer-divider">
+                                <div class="row">
+
+<div class="component divider col-12 white-space-divider">
+    <div class="component-content">
+        <hr />
+    </div>
+</div>
+</div>
+                            </div>
+                            
+                            <div class="col-12">
+                                <div class="row">    <div class="component socialbuttons col-12">
+        <div class="component-content">
+<nav><ul><li><div class="field-social-link field-logo"><a class="social-btn-link" target="_blank" rel="noopener follow" href="https://www.facebook.com/blickleinternational/"><img src="/-/media/project/blickle/shared/social-icons/facebook-icon.svg?iar=0&amp;fh=6c5f992114a1dabc33c1cf586e551aa6&amp;hash=175774270830EDB3E8326804C37C1706" alt="facebook icon" title="facebook icon" data-variantitemid="{5D2C24F8-1F9F-4AE1-8DBC-E8A8256A61A8}" data-variantfieldname="Logo" /></a></div></li><li><div class="field-social-link field-logo"><a class="social-btn-link" target="_blank" title="YouTube" rel="noopener follow" href="https://www.youtube.com/@BlickleGroup"><img src="/-/media/project/blickle/shared/social-icons/youtube-icon.svg?iar=0&amp;fh=fc3b0e6b7dc5081db2137bef43db6f17&amp;hash=E2B10E287EF873D8EC4763699687158A" alt="youtube icon" title="youtube icon" data-variantitemid="{22C84B73-AEE3-4C33-9AE8-55DE96F0EA99}" data-variantfieldname="Logo" /></a></div></li><li><div class="field-social-link field-logo"><a class="social-btn-link" target="_blank" title="LinkedIn" rel="noopener follow" href="https://www.linkedin.com/company/blickle-group/"><img src="/-/media/project/blickle/shared/social-icons/linkedin-icon.svg?iar=0&amp;fh=18fd65e825e7bc19945a55ff7005a7c9&amp;hash=0F4BFFBEC2723C1CDE6A6B5FE01F9B9E" alt="linkedin icon" data-variantitemid="{44ED3694-0A4A-4AE2-8A1E-4958BFC62AA4}" data-variantfieldname="Logo" /></a></div></li><li><div class="field-social-link field-logo"><a class="social-btn-link" target="_blank" title="Instagram" rel="noopener follow" href="https://www.instagram.com/blickle_group/"><img src="/-/media/project/blickle/shared/social-icons/instagram_icon.svg?iar=0&amp;fh=315f95c89be0ecea93435b1de3244b38&amp;hash=550454CA1CB43EB931912EEA6EC79009" alt="Instagram" title="Instagram" data-variantitemid="{35241710-68A7-44A0-A77F-06DADE1250D0}" data-variantfieldname="Logo" /></a></div></li></ul></nav>        </div>
+    </div>
+</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>
+            </div>
+        </footer>
+   
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+    
+
+
+
+
+
+
+
+
+    
+    <div id="sk-fading-circle" class="sk-fading-circle" style="display:none;">
+    <div class="sk-circle1 sk-circle"></div>
+    <div class="sk-circle2 sk-circle"></div>
+    <div class="sk-circle3 sk-circle"></div>
+    <div class="sk-circle4 sk-circle"></div>
+    <div class="sk-circle5 sk-circle"></div>
+    <div class="sk-circle6 sk-circle"></div>
+    <div class="sk-circle7 sk-circle"></div>
+    <div class="sk-circle8 sk-circle"></div>
+    <div class="sk-circle9 sk-circle"></div>
+    <div class="sk-circle10 sk-circle"></div>
+    <div class="sk-circle11 sk-circle"></div>
+    <div class="sk-circle12 sk-circle"></div>
+</div>
+
+<script src="/-/media/base-themes/core-libraries/scripts/optimized-min.js?t=20260521T150257Z"></script><script src="/-/media/base-themes/xa-api/scripts/optimized-min.js?t=20260521T150849Z"></script><script src="/-/media/base-themes/sticky-notes/scripts/optimized-min.js?t=20260521T150853Z"></script><script src="/-/media/base-themes/variants/scripts/optimized-min.js?t=20260521T150907Z"></script><script src="/-/media/base-themes/editing-theme/scripts/optimized-min.js?t=20260521T150910Z"></script><script src="/-/media/base-themes/main-theme/scripts/optimized-min.js?t=20260521T150924Z"></script><script src="/-/media/base-themes/google-maps-js-connector/scripts/optimized-min.js?t=20260521T150924Z"></script><script src="/-/media/base-themes/maps/scripts/optimized-min.js?t=20260521T150928Z"></script><script src="/-/media/base-themes/search-theme/scripts/optimized-min.js?t=20260521T150933Z"></script><script src="/-/media/base-themes/components-theme/scripts/optimized-min.js?t=20260521T150937Z"></script><script src="/-/media/base-themes/resolve-conflicts/scripts/optimized-min.js?t=20260521T150943Z"></script><script src="/-/media/base-themes/vendor/amcharts/scripts/optimized-min.js?t=20260521T150824Z"></script><script src="/-/media/base-themes/vendor/blickle-global-vendor-theme/scripts/optimized-min.js?t=20260521T150841Z"></script><script src="/-/media/themes/blickle2/blickle/scripts/pre-optimized-min.js?fh=97c21e179c4f7905e11b9de4d298547c&t=20260811T133114Z"></script>    <!-- /#wrapper -->
+    <script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.conditions.js?v=sc10.3.1"></script>
+</body>
+</html>
